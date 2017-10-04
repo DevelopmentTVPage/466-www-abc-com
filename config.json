@@ -1,0 +1,15 @@
+{
+    "title": "TY",
+    "baseURL": "https:\/\/www.abc.com\/test",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759037",
+        "subfolder": "\/test",
+        "firstpartycookies": true,
+        "cookiedomain": "abc.com"
+    }
+}
